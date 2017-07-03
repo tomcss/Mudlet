@@ -244,7 +244,8 @@ SOURCES += \
     TVar.cpp \
     VarUnit.cpp \
     XMLexport.cpp \
-    XMLimport.cpp
+    XMLimport.cpp \
+    FlowLayout.cpp
 
 
 HEADERS += \
@@ -320,7 +321,8 @@ HEADERS += \
     TVar.h \
     VarUnit.h \
     XMLexport.h \
-    XMLimport.h
+    XMLimport.h \
+    FlowLayout.h
 
 # This is for compiled UI files, not those used at runtime through the resource file.
 FORMS += \
